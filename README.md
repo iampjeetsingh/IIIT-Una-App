@@ -10,11 +10,11 @@ The Results feature works by fetching data from the APIs and generating visualiz
 
 ### Light Mode
 
-|                  Light Mode                  |                  Dark Mode                  |
-|:--------------------------------------------:|:-------------------------------------------:|
-| ![Results Light Mode](assets/results_l1.jpg) | ![Results Dark Mode](assets/results_d1.jpg) |
-| ![Results Light Mode](assets/results_l2.jpg) | ![Results Dark Mode](assets/results_d2.jpg) |
-| ![Results Light Mode](assets/results_l3.jpg) | ![Results Dark Mode](assets/results_d3.jpg) |
+|                  Light Mode                  |                  Dark Mode                  |           Empty            
+|:--------------------------------------------:|:-------------------------------------------:|:--------------------------:|
+| ![Results Light Mode](assets/results_l1.jpg) | ![Results Dark Mode](assets/results_d1.jpg) | ![]() |
+| ![Results Light Mode](assets/results_l2.jpg) | ![Results Dark Mode](assets/results_d2.jpg) |           ![]()            |
+| ![Results Light Mode](assets/results_l3.jpg) | ![Results Dark Mode](assets/results_d3.jpg) |           ![]()            |
 
 ## Getting Started
 
