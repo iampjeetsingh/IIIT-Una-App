@@ -42,6 +42,7 @@ The IIIT Una App features several sections, each with unique services that cater
 | ![Gate Pass Light Mode](assets/gatepass_l1.jpg) | ![Gate Pass Light/Dark Mode](assets/results_collage.png) | ![Gate Pass Dark Mode](assets/gatepass_d1.jpg) |
 | ![Gate Pass Light Mode](assets/gatepass_l2.jpg) |                                                          | ![Gate Pass Dark Mode](assets/gatepass_d2.jpg) |
 | ![Gate Pass Light Mode](assets/gatepass_l3.jpg) |                                                          | ![Gate Pass Dark Mode](assets/gatepass_d3.jpg) |
+| ![Gate Pass Light Mode](assets/gatepass_l4.jpg) |                                                          | ![Gate Pass Dark Mode](assets/gatepass_d4.jpg) |
 
 ## Time Table
 
