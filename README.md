@@ -1,4 +1,7 @@
 <p align="center">
+    <a>
+        <img src="assets/logo.png" width="200" height="200"/>
+    </a>
     <h1 align="center">IIIT Una App</h1>
     <h2 align="center">A One-Stop Shop for Students</h2>
 </p>
