@@ -3,6 +3,10 @@
     <h2 align="center">A One-Stop Shop for Students</h2>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## 🌟 About
+
 College can be a busy and overwhelming time. There are so many things to keep track of, from classes and assignments to extracurricular activities and social life. It can be hard to stay on top of everything without some help.
 
 That's where the IIITU App comes in. This app is designed to make college life easier for students by providing them with a one-stop shop for all of their needs. With the College App, students can:
@@ -14,7 +18,21 @@ That's where the IIITU App comes in. This app is designed to make college life e
 - Schedule laundry and get access to washing machines
 - Receive personalized notifications
 
-# Features
+## 📃 Frontend
+- [Android (Kotlin)](https://www.geeksforgeeks.org/a-complete-guide-to-learn-kotlin-for-android-app-development/)
+- [Firebase Cloud Storage](https://firebase.google.com/products/storage) - For storing profile pictures, thumbnails, etc.
+- [Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/) - For Push Notifications.
+- [Retrofit](https://square.github.io/retrofit/) - For making API calls.
+- [Lottie](https://airbnb.design/lottie/) - For displaying JSON based animations.
+- [Glide](https://bumptech.github.io/glide/) - For loading images from urls.
+
+
+
+## 📃 Backend
+- [NodeJS](https://nodejs.org/en/) + [ExpressJS](https://expressjs.com/) + [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/) - For Elegant MongoDB object modeling
+
+## ✨ Features
 
 The College App has a variety of features that make it a valuable tool for students. Some key features include:
 
@@ -85,10 +103,18 @@ Students can receive personalized notifications about things like upcoming event
 |:--------------------------------------------------------:|:------------------------------------------------------------------:|:-------------------------------------------------------:|
 | ![Notifications Light Mode](assets/notifications_l1.jpg) | ![Notifications Light/Dark Mode](assets/notifications_collage.png) | ![Notifications Dark Mode](assets/notifications_d1.jpg) |
 
-## Contributing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-We welcome contributions to our app! If you have suggestions for improving the IIIT Una App, please submit a pull request or contact us at iiituappteam@thesupremeone.in
+## Connect with me
 
-## License
-
-This app is licensed under the MIT License. See the LICENSE file for details.
+<div align="center">
+<a href="https://github.com/iampjeetsingh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/thesupremeone" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="https://thesupremeone.in/" target="_blank">
+<img src=https://img.shields.io/badge/-WEBSITE-brightgreen?&style=for-the-badge alt=website style="margin-bottom: 5px;" />
+</a> 
+</div> 
