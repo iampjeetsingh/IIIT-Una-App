@@ -16,7 +16,7 @@ That's where the IIITU App comes in. This app is designed to make college life e
 
 # Features
 
-The College App has a variety of features that make it a valuable tool for students. Some of the key features include:
+The College App has a variety of features that make it a valuable tool for students. Some key features include:
 
 ### 1. Grades / Results
 
@@ -26,7 +26,6 @@ Students can view their grades for all of their classes, as well as their overal
 |:--------------------------------------------:|:------------------------------------------------------:|:-------------------------------------------:|
 | ![Results Light Mode](assets/results_l1.jpg) | ![Results Light/Dark Mode](assets/results_collage.png) | ![Results Dark Mode](assets/results_d1.jpg) |
 | ![Results Light Mode](assets/results_l2.jpg) |                                                        | ![Results Dark Mode](assets/results_d2.jpg) |
-| ![Results Light Mode](assets/results_l3.jpg) |                                                        | ![Results Dark Mode](assets/results_d3.jpg) |
 
 ### 2. Applications
 
@@ -36,7 +35,6 @@ Students can submit applications for things like scholarships, internships, and 
 |:------------------------------------------------------:|:----------------------------------------------------------------:|:-----------------------------------------------------:|
 | ![Applications Light Mode](assets/applications_l1.jpg) | ![Applications Light/Dark Mode](assets/applications_collage.png) | ![Applications Dark Mode](assets/applications_d1.jpg) |
 | ![Applications Light Mode](assets/applications_l2.jpg) |                                                                  | ![Applications Dark Mode](assets/applications_d2.jpg) |
-| ![Applications Light Mode](assets/applications_l3.jpg) |                                                                  | ![Applications Dark Mode](assets/applications_d3.jpg) |
 | ![Applications Light Mode](assets/applications_l4.jpg) |                                                                  | ![Applications Dark Mode](assets/applications_d4.jpg) |
 | ![Applications Light Mode](assets/applications_l5.jpg) |                                                                  | ![Applications Dark Mode](assets/applications_d5.jpg) |
 | ![Applications Light Mode](assets/applications_l6.jpg) |                                                                  | ![Applications Dark Mode](assets/applications_d6.jpg) |
@@ -58,7 +56,6 @@ Students can request gate/leave passes to leave campus. Leave passes must be app
 |:-----------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------:|
 | ![Gate Pass Light Mode](assets/gatepass_l1.jpg) | ![Gate Pass Light/Dark Mode](assets/gatepass_collage.png) | ![Gate Pass Dark Mode](assets/gatepass_d1.jpg) |
 | ![Gate Pass Light Mode](assets/gatepass_l2.jpg) |                                                           | ![Gate Pass Dark Mode](assets/gatepass_d2.jpg) |
-| ![Gate Pass Light Mode](assets/gatepass_l3.jpg) |                                                           | ![Gate Pass Dark Mode](assets/gatepass_d3.jpg) |
 | ![Gate Pass Light Mode](assets/gatepass_l4.jpg) |                                                           | ![Gate Pass Dark Mode](assets/gatepass_d4.jpg) |
 
 ### 5. Time Table
@@ -70,7 +67,6 @@ Students can view their timetable for the current semester. They can also view t
 | ![Time Table Light Mode](assets/timetable_l1.jpg) | ![Time Table Light/Dark Mode](assets/timetable_collage.png) | ![Time Table Dark Mode](assets/timetable_d1.jpg) |
 | ![Time Table Light Mode](assets/timetable_l2.jpg) |                                                             | ![Time Table Dark Mode](assets/timetable_d2.jpg) |
 | ![Time Table Light Mode](assets/calendar_l1.jpg)  |                                                             | ![Time Table Dark Mode](assets/calendar_d1.jpg)  |
-| ![Time Table Light Mode](assets/calendar_l2.jpg)  |                                                             | ![Time Table Dark Mode](assets/calendar_d2.jpg)  |
 
 ### 6. Laundry Scheduling
 
@@ -78,7 +74,7 @@ Students can schedule laundry and get access to washing machines. When a student
 
 |                  Light Mode                  |                         Space                          |                  Dark Mode                  |
 |:--------------------------------------------:|:------------------------------------------------------:|:-------------------------------------------:|
-| ![Laundry Light Mode](assets/laundry_l1.jpg) | ![Laundry Light/Dark Mode](assets/results_collage.png) | ![Laundry Dark Mode](assets/laundry_d1.jpg) |
+| ![Laundry Light Mode](assets/laundry_l1.jpg) | ![Laundry Light/Dark Mode](assets/laundry_collage.png) | ![Laundry Dark Mode](assets/laundry_d1.jpg) |
 | ![Laundry Light Mode](assets/laundry_l2.jpg) |                                                        | ![Laundry Dark Mode](assets/laundry_d2.jpg) |
 
 ### 7. Notifications
